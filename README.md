@@ -1,4 +1,4 @@
-# curso-npm-mastering-the-basics
+# udemy-npm-mastering-basics
 
 Este repositório contém todas as atividades realizadas durante o [Udemy] npm - Mastering the Basics.
 
